@@ -1,0 +1,20 @@
+{
+  "name": "gitchild-demo",
+  "version": "1.0.0",
+  "description": "用于git子库测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lqt0327/gitchild-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lqt0327/gitchild-demo/issues"
+  },
+  "homepage": "https://github.com/lqt0327/gitchild-demo#readme"
+}

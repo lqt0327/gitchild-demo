@@ -1,0 +1,3 @@
+[submodule "src/modules/open-modules"]
+	path = src/modules/open-modules
+	url = https://github.com/lqt0327/open-modules.git
